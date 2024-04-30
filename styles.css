@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section div {
+  flex-direction: column;
+}
+
+section ul {
+  flex-direction: column;
+}
+
+h1{
+  font-size: 1.2em;
+}
+
+h2{
+  font-size: 1.5em;
+}
