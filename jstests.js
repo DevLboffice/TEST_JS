@@ -332,4 +332,6 @@ const num = [231,33,5,67,34,43];
 
 console.log(counter(num));
 
+console.log('tt');
+
 
